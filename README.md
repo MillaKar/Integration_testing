@@ -1,5 +1,5 @@
-#Integration testing  
-##Description  - Hex to RGB API  
+# Integration testing  
+## Description  - Hex to RGB API  
 In this project there's a simple node.js and Express API that converts hexadesimal color codes into RGB values  
 Automated tests are done by using Jest and Supertest.  
 
@@ -14,17 +14,17 @@ And the response in Postman should be something like:
 }```  
 The "#" should not be used...
 
-##How to run  
+## How to run  
 (You can run the unit tests first with command: npm test)  
 1.) Install dependencies:  
 npm install  
-2.)Start the server:  
+2.) Start the server:  
 npm run dev  
 3.) Open Postman and call for example:  
 "http://localhost:3000/api/hex-to-rgb?hex=FF0000" or "http://localhost:3000/api/hex-to-rgb?hex=ZZZZZZ"  
 These two make the responses seen in the images.  
 
-##Test output  
+## Test output  
 For unit testing (seen also in the images):  
 PASS  tests/hexToRgb.test.js
 PASS  tests/hexRoute.test.js
