@@ -11,7 +11,7 @@ And the response in Postman should be something like:
 {  
   "hex": "FF0000",  
   "rgb": { "r": 255, "g": 0, "b": 0 }  
-}```  "
+}```  "  
 The "#" should not be used...
 
 ## How to run  
