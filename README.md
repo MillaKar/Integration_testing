@@ -22,7 +22,7 @@ npm install
 npm run dev  
 3.) Open Postman and call for example:  
 "http://localhost:3000/api/hex-to-rgb?hex=00FFAA" or "http://localhost:3000/api/hex-to-rgb?hex=ZZZZZZ"  
-These two make the responses seen in the [Images](https://github.com/MillaKar/Integration_testing/tree/main/images")
+These two make the responses seen in the [Images](https://github.com/MillaKar/Integration_testing/tree/main/images)
 
 ## Test output  
 For unit testing (seen also in the images):  
