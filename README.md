@@ -26,8 +26,8 @@ These two make the responses seen in the images.
 
 ## Test output  
 For unit testing (seen also in the images):  
-PASS  tests/hexToRgb.test.js
-PASS  tests/hexRoute.test.js
+PASS  tests/hexToRgb.test.js  
+PASS  tests/hexRoute.test.js  
 
 Test Suites: 2 passed, 2 total
 Tests:       6 passed, 6 total  
