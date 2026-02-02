@@ -7,10 +7,10 @@ The API accepts a hex color code as a query parameter and returns the correspond
 For example:  
 GET /api/hex-to-rgb?hex=FF0000  
 And the response in Postman should be something like:  
-/```json
-{
-  "hex": "FF0000",
-  "rgb": { "r": 255, "g": 0, "b": 0 }
+/```json  
+{  
+  "hex": "FF0000",  
+  "rgb": { "r": 255, "g": 0, "b": 0 }  
 }```  
 The "#" should not be used...
 
