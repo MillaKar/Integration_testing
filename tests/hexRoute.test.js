@@ -1,3 +1,5 @@
+//Tests for the API endpoint /api/hex-to-rgb.
+//Ensures taht the API returns correct JSON and HTTP status codes.
 const request = require("supertest");
 const app = require("../src/app");
 

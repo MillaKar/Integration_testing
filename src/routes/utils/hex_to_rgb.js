@@ -1,3 +1,4 @@
+// Converts a hexadesimal color code into an RGB
 const { parse } = require("path");
 
 function hexToRgb(hex) {

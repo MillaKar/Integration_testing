@@ -1,3 +1,4 @@
+//Tests check that the hex values are correctly converted to RGB.
 const hexToRgb = require("../src/routes/utils/hex_to_rgb");
 
 test("#FF0000 is red", () => {
