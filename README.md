@@ -21,7 +21,7 @@ npm install
 2.) Start the server:  
 npm run dev  
 3.) Open Postman and call for example:  
-"http://localhost:3000/api/hex-to-rgb?hex=FF0000" or "http://localhost:3000/api/hex-to-rgb?hex=ZZZZZZ"  
+"http://localhost:3000/api/hex-to-rgb?hex=00FFAA" or "http://localhost:3000/api/hex-to-rgb?hex=ZZZZZZ"  
 These two make the responses seen in the images.  
 
 ## Test output  
